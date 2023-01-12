@@ -1,0 +1,11 @@
+[{'domain': '.weibo.com', 'httpOnly': False, 'name': '_s_tentry', 'path': '/', 'secure': False, 'value': 'passport.weibo.com'},
+{'domain': '.weibo.com', 'expiry': 1702031560, 'httpOnly': False, 'name': 'ULV', 'path': '/', 'secure': False, 'value': '1670927560668:1:1:1:9507112733767.795.1670927560665:'},
+{'domain': '.weibo.com', 'httpOnly': False, 'name': 'cross_origin_proto', 'path': '/', 'secure': False, 'value': 'SSL'},
+{'domain': '.weibo.com', 'expiry': 1705487560, 'httpOnly': False, 'name': 'SINAGLOBAL', 'path': '/', 'secure': False, 'value': '9507112733767.795.1670927560665'},
+{'domain': '.weibo.com', 'httpOnly': False, 'name': 'login_sid_t', 'path': '/', 'secure': False, 'value': '5707babb0d569cad438e5f86f7757df8'},
+{'domain': '.passport.weibo.com', 'expiry': 1705487558, 'httpOnly': True, 'name': 'SRT', 'path': '/', 'secure': True, 'value': 'D.QqHBTrsP5mu-5cRtOeYoWr9NUdS34e%21pWcY8iERk54EwMdbbN-bkA-y6NbHi5mYNUCsuTZbhVdnnM3MNAZSAJEAoNmH6A3M3OFX3PrbrSmiOPOSgP49tArn-5GEOKA77%2AB.vAflW-P9Rc0lR-ykKDvnJqiQVbiRVPBtS%21r3J8sQVqbgVdWiMZ4siOzu4DbmKPWfNqSDQqWBTeYCibSAIPvoJqbD5Ebg'},
+{'domain': '.passport.weibo.com', 'expiry': 1705487558, 'httpOnly': False, 'name': 'SRF', 'path': '/', 'secure': True, 'value': '1670927556'},
+{'domain': '.weibo.com', 'httpOnly': False, 'name': 'Apache', 'path': '/', 'secure': False, 'value': '9507112733767.795.1670927560665'},
+{'domain': '.weibo.com', 'expiry': 1702463558, 'httpOnly': False, 'name': 'SUBP', 'path': '/', 'secure': False, 'value': '0033WrSXqPxfM72-Ws9jqgMF55529P9D9WhK6C_7AjxB6VP-P139CxYj'},
+{'domain': '.weibo.com', 'expiry': 1702463558, 'httpOnly': True, 'name': 'SUB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '_2AkMUxNvzf8NxqwJRmfwRy2vhb4V-yAzEieKimCooJRMxHRl-yj9kql0GtRB6P0T1HBoCtwLh7WItdCSU6jUJxCL6xqS9'},
+{'domain': '.weibo.com', 'expiry': 1670929359, 'httpOnly': True, 'name': 'PC_TOKEN', 'path': '/', 'secure': True, 'value': 'ef5d191589'}]
